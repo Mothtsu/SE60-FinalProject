@@ -4,7 +4,7 @@
 
 This project created for learning in Software Engineering subject at School of Computer Engineering, Suranaree University of Technology. In this project have developed by six students and they are Team05.    
 
-At first, my professor will create and setup default project and gave that to all students for developing it.
+First, my professor will create and setup default project and gave that to all students for developing it.
 This class we develop software by ReactJS(OnsenUI) and JAVA(Spring boot).    
 
 I have developed two systems(sub-project), this is  
